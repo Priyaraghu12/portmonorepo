@@ -1,1 +1,5 @@
-
+- identifier: "repo3"
+  blueprint: service
+  properties:
+    type: "frontend"
+    lifecycle: "Experimenta"
