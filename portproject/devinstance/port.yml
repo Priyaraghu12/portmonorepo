@@ -1,5 +1,5 @@
 - identifier: "repo3"
   blueprint: service
   properties:
-    type: "frontend13"
-    lifecycle: "Experiment13"
+    type: "frontend22"
+    lifecycle: "Experiment22"
